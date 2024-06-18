@@ -33,14 +33,14 @@ This directory holds all the images used in the project:
 - **imageHinataSpike.png**: An action shot of Hinata spiking a volleyball.
 - **imageHinataBubble.png**: A stylized image of Hinata.
   
-### Usage
+## Usage
 To view the tribute page:
 
 - Clone or download the repository to your local machine.
 - Ensure all files (index.html, style.css, script.js, and the images directory) are in the same directory.
 - Open index.html in a web browser.
   
-### External Links
+## External Links
 The navigation bar includes links to the following external resources:
 
 - **Fun Facts**: Fun facts about Hinata Shoyo.
@@ -48,8 +48,8 @@ The navigation bar includes links to the following external resources:
 - **Manga**: Official Haikyuu manga page.
 - **Watch Haikyuu**: A link to watch Haikyuu anime.
   
-### Credits
+## Credits
 This tribute page is created for fans of Hinata Shoyo and Haikyuu!!. All information and images are credited to the respective owners and sources from the Haikyuu series.
 
-### License
+## License
 This project is for personal and educational purposes only. All content related to Hinata Shoyo and Haikyuu is the property of its respective owners.
